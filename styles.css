@@ -1,0 +1,23 @@
+button {
+  font-family: 'Open Sans', sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+  background-color: #E5B6D5;
+  border-color: #B2479A #CC7FB5;
+  text-transform: uppercase;
+
+}
+
+.random-button {
+
+}
+
+.reset-button {
+
+}
+
+#background {
+  background: red;
+  width: 100vw;
+  height: 100vh;
+}
