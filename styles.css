@@ -16,6 +16,13 @@ button {
 
 }
 
+#buttons {
+  display: flex;
+  flex-direction: row;
+  align-conten: space-between;
+  margin: auto;
+  background: aqua;
+}
 #background {
   background: red;
   width: 100vw;
