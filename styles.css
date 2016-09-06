@@ -13,6 +13,11 @@ button {
   border-style: solid;
 }
 
+button:hover {
+  background-color: #B2479A;
+  border-color: #CC7FB5 #E5B6D5;
+}
+
 #random-button {
   margin-right: 40px;
 }
